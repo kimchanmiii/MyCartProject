@@ -1086,7 +1086,8 @@ Payment 액티비티의 레이아웃은 GridLayout을 사용하여 그 밑에는
 
 + 버튼 클릭 함수 (팝업창 띄우기)
 
-
+![pay_fail](./image/pay_fail.png)
+![pay_success](./image/pay_success.png)
 
 ```java
         //팝업창 띄우기
