@@ -51,7 +51,7 @@
 체크박스를 만들어 원하는 상품만 장바구니에 담을 수 있도록 한다.   
 화면 하단에는 장바구니 버튼과 바로구매 버튼을 만들어 화면이 이동할 수 있도록 만든다.
 
-![home](./image/home.png)
+<img src = "https://github.com/kimchanmiii/MyCartProject/blob/main/image/home.png" width="300" height="600">
 
 **레이아웃 코드**   
 메인 액티비티의 레이아웃은 RelativeLayout을 사용하여 그 밑에는 이미지, 텍스트, 버튼, 체크박스 등으로 디자인해주었다.   
@@ -294,7 +294,7 @@
 체크박스를 만들어 원하는 상품만 결제할 수 있도록 설정한다.   
 화면 하단에는 '홈' 버튼과 '결제하기' 버튼을 만들어 화면이 이동할 수 있도록 만든다.   
 
-![cart](./image/cart.png)
+<img src = "https://github.com/kimchanmiii/MyCartProject/blob/main/image/cart.png" width="300" height="600">
 
 **레이아웃 코드**   
 Cart 액티비티의 레이아웃은 LinearLayout을 사용하여 그 밑에는 이미지, 텍스트, 버튼으로 디자인해주었다.   
@@ -545,7 +545,7 @@ Cart 액티비티의 레이아웃은 LinearLayout을 사용하여 그 밑에는 
 구매자의 주소와 연락처를 입력해야만 결제를 진행할 수 있도록 한다.   
 결제가 완료되면 첫 화면(홈)으로 돌아간다.  
 
-![payment](./image/payment.png)
+<img src = "https://github.com/kimchanmiii/MyCartProject/blob/main/image/payment.png" width="300" height="600">
 
 **레이아웃 코드**   
 Payment 액티비티의 레이아웃은 GridLayout을 사용하여 그 밑에는 이미지, 텍스트, 버튼으로 디자인해주었다.   
@@ -1086,8 +1086,8 @@ Payment 액티비티의 레이아웃은 GridLayout을 사용하여 그 밑에는
 
 + 버튼 클릭 함수 (팝업창 띄우기)
 
-![pay_fail](./image/pay_fail.png)
-![pay_success](./image/pay_success.png)
+<img src = "https://github.com/kimchanmiii/MyCartProject/blob/main/image/pay_fail.png" width="300" height="600">
+<img src = "https://github.com/kimchanmiii/MyCartProject/blob/main/image/pay_success.png" width="300" height="600">
 
 ```java
         //팝업창 띄우기
